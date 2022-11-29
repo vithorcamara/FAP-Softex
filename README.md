@@ -1,6 +1,6 @@
 # FAP-Softex
 A Educational Path about Web projects, knowledge, classes and exercises idealized by Softex students (principally Amanda).<br>
-Discord: 
+Discord: https://discord.com/invite/6YNeBrS5
 ## Archives
 Support archives to help students in another matters about programming knowledge and profiles
 - Apostille- Web Programming HTML/CSS
